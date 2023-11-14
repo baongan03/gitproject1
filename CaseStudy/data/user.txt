@@ -1,0 +1,4 @@
+3,dat,123,USER
+2,admin,admin,ADMIN
+1,user,user,USER
+4,ngan,123,USER

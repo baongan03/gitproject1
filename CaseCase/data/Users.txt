@@ -1,0 +1,6 @@
+10001,Baongan,Baongan@123,26-11-2003,baongan@gmail.com,Hue,0935032161,FEMALE,ADMIN
+10002,Kennnn,Ken@123,12-04-2000,ttbn26@gmail.com,Hue,0932573376,MALE,USER
+10003,Quanggg,quang@123,11-10-1993,quangdang@gmail.com,Hue,0932573376,MALE,USER
+10004,Quocanhh,anh@123,22-05-1995,Quocanh123@gmail.com,Hue,0775123642,MALE,USER
+10005,Hoangnam,nam@123,25-10-1991,hoangnam@gmail.com,Hue,0935633818,MALE,USER
+10006,Nhunggg,nhung@123,22-10-1999,lthn123@gmail.com,hue,0953214562,FEMALE,USER
